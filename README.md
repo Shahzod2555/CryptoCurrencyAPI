@@ -13,7 +13,7 @@
 
 ```bash
 git clone https://Shahzod2555/CryptoCurrencyAPI.git
-cd your-repository-folder
+cd CryptoCurrencyAPI
 ```
 ### 2. Установите зависимости:
 Создайте виртуальное окружение и активируйте его:
