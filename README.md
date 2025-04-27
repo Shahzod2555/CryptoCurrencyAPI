@@ -32,11 +32,8 @@ pip install -r requirements.txt
 3. Создайте файл .env в корне проекта и добавьте свой API ключ от CoinMarketCap:
 
 ```
-CMC_API_KEY=your_api_key
+CMC_API_KEY=Сюда ваш api key
 ```
-
-#### Замените your_api_key на свой ключ, который можно получить на CoinMarketCap.
-
 4. Запустите сервер:
 ```bash
 python app.py
